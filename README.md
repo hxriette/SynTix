@@ -1,0 +1,2 @@
+# SynTix
+IT Ticketing System
